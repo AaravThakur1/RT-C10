@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# RT-C10 Project
+
+# TensorBoard
+runs/
+
+# Kaggle API credentials
+kaggle.json
+
+# VS Code workspace (optional)
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model checkpoints
+checkpoints/
+*.pt
